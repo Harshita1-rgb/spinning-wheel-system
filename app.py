@@ -12,12 +12,17 @@ CORS(app)
 EXCEL_FILE = "spin_responses.xlsx"
 PASSWORD = "ecoil123"
 
-# ✅ Serve React index.html as the root
+# ✅ Serve index.html for root
 @app.route('/')
 def serve_index():
     return send_from_directory(app.static_folder, 'index.html')
 
-# ✅ Serve all static files from dist/
+# ✅ Serve admin.html for /admin route
+@app.route('/admin')
+def serve_admin():
+    return send_from_directory(app.static_folder, 'admin.html')
+
+# ✅ Serve static assets (JS, CSS, etc.)
 @app.route('/<path:path>')
 def serve_static(path):
     return send_from_directory(app.static_folder, path)

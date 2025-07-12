@@ -1,47 +1,64 @@
-from flask import Flask, request, send_file, jsonify
-from flask_cors import CORS
+from flask import Flask, request, jsonify, send_file, send_from_directory
 import openpyxl
+from openpyxl import Workbook
 import os
+from flask_cors import CORS
+from datetime import datetime
 
-app = Flask(__name__, static_folder=".", static_url_path="")
+app = Flask(__name__)
 CORS(app)
 
-ADMIN_PASSWORD = "ecoil123"
 EXCEL_FILE = "spin_responses.xlsx"
+PASSWORD = "ecoil123"
 
-@app.route("/")
+@app.route('/')
 def index():
-    return app.send_static_file("index.html")
+    return send_from_directory('.', 'vendor.html')
 
-@app.route("/admin")
-def admin():
-    return app.send_static_file("admin.html")
+@app.route('/<path:filename>')
+def serve_static(filename):
+    return send_from_directory('.', filename)
 
-@app.route("/download_excel", methods=["POST"])
+@app.route('/submit_spin', methods=['POST'])
+def submit_spin():
+    data = request.json
+    name = data.get('name')
+    phone = data.get('phone')
+    role = data.get('role')
+    prize = data.get('prize')
+    timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+    if not os.path.exists(EXCEL_FILE):
+        wb = Workbook()
+        ws = wb.active
+        ws.append(["Name", "Phone", "Role", "Prize", "Timestamp"])
+        wb.save(EXCEL_FILE)
+
+    wb = openpyxl.load_workbook(EXCEL_FILE)
+    ws = wb.active
+    ws.append([name, phone, role, prize, timestamp])
+    wb.save(EXCEL_FILE)
+
+    return jsonify({"message": "Spin result saved successfully."}), 200
+
+@app.route('/download_excel', methods=['GET'])
 def download_excel():
-    data = request.get_json()
-    if data.get("password") != ADMIN_PASSWORD:
-        return jsonify({"error": "Invalid password"}), 403
+    pwd = request.args.get('password')
+    if pwd != PASSWORD:
+        return jsonify({"error": "Unauthorized"}), 403
+    return send_file(EXCEL_FILE, as_attachment=True)
 
-    if os.path.exists(EXCEL_FILE):
-        return send_file(EXCEL_FILE, as_attachment=True)
-    else:
-        return jsonify({"error": "Excel file not found"}), 404
-
-@app.route("/clear_excel", methods=["POST"])
+@app.route('/clear_excel', methods=['POST'])
 def clear_excel():
-    data = request.get_json()
-    if data.get("password") != ADMIN_PASSWORD:
-        return jsonify({"error": "Invalid password"}), 403
+    pwd = request.json.get('password')
+    if pwd != PASSWORD:
+        return jsonify({"error": "Unauthorized"}), 403
 
-    try:
-        if os.path.exists(EXCEL_FILE):
-            wb = openpyxl.Workbook()
-            ws = wb.active
-            ws.append(["Name", "Phone", "Role", "Prize", "Timestamp"])
-            wb.save(EXCEL_FILE)
-            return jsonify({"message": "✅ Responses cleared."})
-        else:
-            return jsonify({"error": "Excel file not found"}), 404
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
+    wb = Workbook()
+    ws = wb.active
+    ws.append(["Name", "Phone", "Role", "Prize", "Timestamp"])
+    wb.save(EXCEL_FILE)
+    return jsonify({"message": "Excel data cleared successfully."}), 200
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=10000)

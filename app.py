@@ -1,26 +1,28 @@
-from flask import Flask, request, jsonify, send_file, send_from_directory
+from flask import Flask, send_from_directory, request, jsonify, send_file
+import os
 import openpyxl
 from openpyxl import Workbook
-import os
 from flask_cors import CORS
 from datetime import datetime
 
-app = Flask(__name__)
+# Set up Flask to serve from the 'dist' folder
+app = Flask(__name__, static_folder='dist', static_url_path='')
 CORS(app)
 
 EXCEL_FILE = "spin_responses.xlsx"
 PASSWORD = "ecoil123"
 
-# ✅ Serve static HTML, CSS, JS files from root
+# ✅ Serve React index.html as the root
 @app.route('/')
-def root():
-    return send_from_directory('.', 'index.html')  # or vendor.html
+def serve_index():
+    return send_from_directory(app.static_folder, 'index.html')
 
-@app.route('/<path:filename>')
-def serve_file(filename):
-    return send_from_directory('.', filename)
+# ✅ Serve all static files from dist/
+@app.route('/<path:path>')
+def serve_static(path):
+    return send_from_directory(app.static_folder, path)
 
-# ✅ Save spin response to Excel
+# ✅ Save spin result to Excel
 @app.route('/submit_spin', methods=['POST'])
 def submit_spin():
     data = request.json

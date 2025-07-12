@@ -1,83 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Admin Panel</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background: linear-gradient(to bottom, #4caf50, #ffeb3b);
-      min-height: 100vh;
-    }
-    input, button {
-      padding: 10px;
-      margin: 10px;
-      width: 300px;
-      border-radius: 8px;
-      border: 1px solid #ccc;
-      font-size: 16px;
-    }
-    button {
-      cursor: pointer;
-      background-color: #1976d2;
-      color: white;
-      border: none;
-    }
-    button:hover {
-      background-color: #1565c0;
-    }
-    #message {
-      font-weight: bold;
-      margin-top: 20px;
-    }
-  </style>
-</head>
-<body>
-  <h2>🔐 Admin Panel</h2>
-  <input type="password" id="password" placeholder="Enter Admin Password" /><br />
-  <button onclick="downloadExcel()">📥 Download Excel</button>
-  <button onclick="clearResponses()">🧹 Clear All Responses</button>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Admin Panel</title>
+    <style>
+      body { font-family: Arial, sans-serif; margin: 40px; }
+      input, button { padding: 10px; margin: 10px; width: 300px; }
+    </style>
+  </head>
+  <body>
+    <h2>🔐 Admin Panel</h2>
+    <input type="password" id="password" placeholder="Enter Admin Password" /><br />
+    <button onclick="downloadExcel()">📥 Download Excel</button>
+    <button onclick="clearResponses()">🧹 Clear All Responses</button>
 
-  <p id="message"></p>
+    <p id="message"></p>
 
-  <script>
-    async function downloadExcel() {
-      const password = document.getElementById("password").value;
-      const res = await fetch("/download_excel", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ password }),
-      });
+    <script>
+      async function downloadExcel() {
+        const password = document.getElementById("password").value;
+        const res = await fetch("http://127.0.0.1:7860/download_excel", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ password }),
+        });
 
-      if (res.status === 200) {
-        const blob = await res.blob();
-        const url = window.URL.createObjectURL(blob);
-        const a = document.createElement("a");
-        a.href = url;
-        a.download = "spin_responses.xlsx";
-        document.body.appendChild(a);
-        a.click();
-        a.remove();
-        document.getElementById("message").innerText = "✅ Excel downloaded.";
-      } else {
-        document.getElementById("message").innerText =
-          "❌ Invalid password or download error.";
+        if (res.status === 200) {
+          const blob = await res.blob();
+          const url = window.URL.createObjectURL(blob);
+          const a = document.createElement("a");
+          a.href = url;
+          a.download = "spin_responses.xlsx";
+          document.body.appendChild(a);
+          a.click();
+          a.remove();
+          document.getElementById("message").innerText = "✅ Downloaded.";
+        } else {
+          document.getElementById("message").innerText = "❌ Invalid password or error.";
+        }
       }
-    }
 
-    async function clearResponses() {
-      const password = document.getElementById("password").value;
-      const res = await fetch("/clear_excel", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ password }),
-      });
+      async function clearResponses() {
+        const password = document.getElementById("password").value;
+        const res = await fetch("http://127.0.0.1:7860/clear_excel", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ password }),
+        });
 
-      const result = await res.json();
-      document.getElementById("message").innerText =
-        result.message || result.error || "❌ Failed to clear.";
-    }
-  </script>
-</body>
+        const result = await res.json();
+        document.getElementById("message").innerText = result.message || result.error;
+      }
+    </script>
+  </body>
 </html>

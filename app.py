@@ -11,14 +11,16 @@ CORS(app)
 EXCEL_FILE = "spin_responses.xlsx"
 PASSWORD = "ecoil123"
 
+# ✅ Serve static HTML, CSS, JS files from root
 @app.route('/')
-def index():
-    return send_from_directory('.', 'vendor.html')
+def root():
+    return send_from_directory('.', 'index.html')  # or vendor.html
 
 @app.route('/<path:filename>')
-def serve_static(filename):
+def serve_file(filename):
     return send_from_directory('.', filename)
 
+# ✅ Save spin response to Excel
 @app.route('/submit_spin', methods=['POST'])
 def submit_spin():
     data = request.json
@@ -41,6 +43,7 @@ def submit_spin():
 
     return jsonify({"message": "Spin result saved successfully."}), 200
 
+# ✅ Download Excel
 @app.route('/download_excel', methods=['GET'])
 def download_excel():
     pwd = request.args.get('password')
@@ -48,6 +51,7 @@ def download_excel():
         return jsonify({"error": "Unauthorized"}), 403
     return send_file(EXCEL_FILE, as_attachment=True)
 
+# ✅ Clear Excel
 @app.route('/clear_excel', methods=['POST'])
 def clear_excel():
     pwd = request.json.get('password')

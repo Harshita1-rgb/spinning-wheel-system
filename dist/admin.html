@@ -19,11 +19,7 @@
     <script>
       async function downloadExcel() {
         const password = document.getElementById("password").value;
-        const res = await fetch("http://127.0.0.1:7860/download_excel", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ password }),
-        });
+        const res = await fetch(`/download_excel?password=${encodeURIComponent(password)}`);
 
         if (res.status === 200) {
           const blob = await res.blob();
@@ -36,13 +32,14 @@
           a.remove();
           document.getElementById("message").innerText = "✅ Downloaded.";
         } else {
-          document.getElementById("message").innerText = "❌ Invalid password or error.";
+          const result = await res.json();
+          document.getElementById("message").innerText = result.error || "❌ Failed to download.";
         }
       }
 
       async function clearResponses() {
         const password = document.getElementById("password").value;
-        const res = await fetch("http://127.0.0.1:7860/clear_excel", {
+        const res = await fetch("/clear_excel", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ password }),

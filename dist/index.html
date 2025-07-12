@@ -6,8 +6,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script type="module" crossorigin src="/assets/index-D4TLySEw.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-TMFwPyor.css">
+    <style>
+      .admin-button {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        background-color: green;
+        color: white;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 5px;
+        font-weight: bold;
+        cursor: pointer;
+        text-decoration: none;
+      }
+
+      .admin-button:hover {
+        background-color: darkgreen;
+      }
+    </style>
   </head>
   <body>
-    <div id="root"></div>
+    <!-- Admin Panel Button -->
+    <a href="/admin" class="admin-button">🔒 Go to Admin Panel</a>
+
+    <!-- React Root -->
+    <div id="root"></div>
   </body>
 </html>

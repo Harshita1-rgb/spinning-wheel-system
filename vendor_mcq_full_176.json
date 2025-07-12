@@ -1,0 +1,1916 @@
+[
+    {
+        "date": "2025-07-09",
+        "question": "On a scale of 1-5, how satisfied are you with our products?",
+        "type": "mcq",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    {
+        "date": "2025-07-10",
+        "question": "Which product category do you purchase from most?",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Apparel",
+            "Home Goods",
+            "Groceries",
+            "Other"
+        ]
+    },
+    {
+        "date": "2025-07-11",
+        "question": "How often do you shop with us?",
+        "type": "mcq",
+        "options": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Rarely"
+        ]
+    },
+    {
+        "date": "2025-07-12",
+        "question": "How do you prefer to receive updates from us?",
+        "type": "mcq",
+        "options": [
+            "Email",
+            "SMS",
+            "App Notifications",
+            "Social Media"
+        ]
+    },
+    {
+        "date": "2025-07-13",
+        "question": "How likely are you to shop with us again?",
+        "type": "mcq",
+        "options": [
+            "Very Likely",
+            "Somewhat Likely",
+            "Neutral",
+            "Unlikely"
+        ]
+    },
+    {
+        "date": "2025-07-14",
+        "question": "Do you prefer shopping online or in-store?",
+        "type": "mcq",
+        "options": [
+            "Online",
+            "In-store",
+            "Both"
+        ]
+    },
+    {
+        "date": "2025-07-15",
+        "question": "How satisfied are you with our delivery times?",
+        "type": "mcq",
+        "options": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied"
+        ]
+    },
+    {
+        "date": "2025-07-16",
+        "question": "Which payment method do you usually use?",
+        "type": "mcq",
+        "options": [
+            "Credit Card",
+            "Debit Card",
+            "Cash",
+            "Digital Wallet"
+        ]
+    },
+    {
+        "date": "2025-07-17",
+        "question": "How easy is it to navigate our website or store?",
+        "type": "mcq",
+        "options": [
+            "Very Easy",
+            "Easy",
+            "Neutral",
+            "Difficult"
+        ]
+    },
+    {
+        "date": "2025-07-18",
+        "question": "What kind of promotions do you prefer?",
+        "type": "mcq",
+        "options": [
+            "Discounts",
+            "Buy One Get One",
+            "Free Shipping",
+            "Loyalty Points"
+        ]
+    },
+    {
+        "date": "2025-07-19",
+        "question": "How do you rate the quality of our products?",
+        "type": "mcq",
+        "options": [
+            "Excellent",
+            "Good",
+            "Average",
+            "Poor"
+        ]
+    },
+    {
+        "date": "2025-07-20",
+        "question": "How important is eco-friendliness to you when shopping?",
+        "type": "mcq",
+        "options": [
+            "Very Important",
+            "Somewhat Important",
+            "Not Important"
+        ]
+    },
+    {
+        "date": "2025-07-21",
+        "question": "How often do you read our newsletters?",
+        "type": "mcq",
+        "options": [
+            "Always",
+            "Sometimes",
+            "Rarely",
+            "Never"
+        ]
+    },
+    {
+        "date": "2025-07-22",
+        "question": "Do you prefer sales during holidays or random times?",
+        "type": "mcq",
+        "options": [
+            "Holidays",
+            "Random Times",
+            "No Preference"
+        ]
+    },
+    {
+        "date": "2025-07-23",
+        "question": "How clear and helpful is our product information?",
+        "type": "mcq",
+        "options": [
+            "Very Clear",
+            "Somewhat Clear",
+            "Unclear"
+        ]
+    },
+    {
+        "date": "2025-07-24",
+        "question": "How do you rate the checkout process?",
+        "type": "mcq",
+        "options": [
+            "Excellent",
+            "Good",
+            "Average",
+            "Poor"
+        ]
+    },
+    {
+        "date": "2025-07-25",
+        "question": "What device do you usually shop from?",
+        "type": "mcq",
+        "options": [
+            "Mobile",
+            "Desktop",
+            "Tablet",
+            "Other"
+        ]
+    },
+    {
+        "date": "2025-07-26",
+        "question": "How likely are you to participate in our loyalty program?",
+        "type": "mcq",
+        "options": [
+            "Very Likely",
+            "Somewhat Likely",
+            "Not Likely"
+        ]
+    },
+    {
+        "date": "2025-07-27",
+        "question": "What\u2019s your preferred delivery option?",
+        "type": "mcq",
+        "options": [
+            "Standard Shipping",
+            "Express Shipping",
+            "In-store Pickup"
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "question": "Which social media platform do you use most to follow brands?",
+        "type": "mcq",
+        "options": [
+            "Instagram",
+            "Facebook",
+            "Twitter",
+            "TikTok",
+            "Other"
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "question": "What time of day do you prefer to shop online?",
+        "type": "mcq",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "Night"
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "question": "How important are product reviews in your purchase decision?",
+        "type": "mcq",
+        "options": [
+            "Very Important",
+            "Somewhat Important",
+            "Not Important"
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "question": "Do you prefer shopping alone or with friends/family?",
+        "type": "mcq",
+        "options": [
+            "Alone",
+            "With Friends/Family",
+            "No Preference"
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "question": "How do you rate the packaging of our products?",
+        "type": "mcq",
+        "options": [
+            "Excellent",
+            "Good",
+            "Average",
+            "Poor"
+        ]
+    },
+    {
+        "date": "2025-08-02",
+        "question": "What\u2019s your favorite season for shopping?",
+        "type": "mcq",
+        "options": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+        ]
+    },
+    {
+        "date": "2025-08-03",
+        "question": "How important is quick delivery to you?",
+        "type": "mcq",
+        "options": [
+            "Very Important",
+            "Somewhat Important",
+            "Not Important"
+        ]
+    },
+    {
+        "date": "2025-08-04",
+        "question": "Do you prefer online or in-store shopping?",
+        "type": "mcq",
+        "options": [
+            "Online",
+            "In-store",
+            "Both"
+        ]
+    },
+    {
+        "date": "2025-08-05",
+        "question": "How often do you leave product reviews?",
+        "type": "mcq",
+        "options": [
+            "Always",
+            "Sometimes",
+            "Never"
+        ]
+    },
+    {
+        "date": "2025-08-06",
+        "question": "What\u2019s your favorite payment method?",
+        "type": "mcq",
+        "options": [
+            "Credit Card",
+            "Debit Card",
+            "Digital Wallet",
+            "Cash on Delivery"
+        ]
+    },
+    {
+        "date": "2025-08-07",
+        "question": "What\u2019s your preferred product category?",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Clothing",
+            "Home & Garden",
+            "Beauty",
+            "Other"
+        ]
+    },
+    {
+        "date": "2025-08-08",
+        "question": "How satisfied are you with our return policy?",
+        "type": "mcq",
+        "options": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Unsatisfied"
+        ]
+    },
+    {
+        "date": "2025-08-09",
+        "question": "How often do you check product availability before purchase?",
+        "type": "mcq",
+        "options": [
+            "Always",
+            "Sometimes",
+            "Rarely"
+        ]
+    },
+    {
+        "date": "2025-08-10",
+        "question": "What time of year do you shop most?",
+        "type": "mcq",
+        "options": [
+            "Holiday Season",
+            "Summer",
+            "Back to School",
+            "Other"
+        ]
+    },
+    {
+        "date": "2025-08-11",
+        "question": "How do you usually discover new products?",
+        "type": "mcq",
+        "options": [
+            "Social Media",
+            "Word of Mouth",
+            "Ads",
+            "In-store"
+        ]
+    },
+    {
+        "date": "2025-08-12",
+        "question": "Do you prefer bundled deals or single products?",
+        "type": "mcq",
+        "options": [
+            "Bundled Deals",
+            "Single Products",
+            "No Preference"
+        ]
+    },
+    {
+        "date": "2025-08-13",
+        "question": "How easy was it to find what you needed on our site?",
+        "type": "mcq",
+        "options": [
+            "Very Easy",
+            "Somewhat Easy",
+            "Difficult"
+        ]
+    },
+    {
+        "date": "2025-08-14",
+        "question": "What\u2019s your favorite way to receive updates?",
+        "type": "mcq",
+        "options": [
+            "Email",
+            "SMS",
+            "App Notifications",
+            "Social Media"
+        ]
+    },
+    {
+        "date": "2025-08-15",
+        "question": "How do you feel about surprise gifts with purchases?",
+        "type": "mcq",
+        "options": [
+            "Love Them",
+            "Neutral",
+            "Don't Like"
+        ]
+    },
+    {
+        "date": "2025-08-16",
+        "question": "What\u2019s your preferred brand communication style?",
+        "type": "mcq",
+        "options": [
+            "Formal",
+            "Casual",
+            "Friendly",
+            "Professional"
+        ]
+    },
+    {
+        "date": "2025-08-17",
+        "question": "How do you feel about eco-friendly products?",
+        "type": "mcq",
+        "options": [
+            "Love Them",
+            "Interested",
+            "Indifferent",
+            "Avoid Them"
+        ]
+    },
+    {
+        "date": "2025-08-18",
+        "question": "How often do you shop online versus in-store?",
+        "type": "mcq",
+        "options": [
+            "Always Online",
+            "Mostly Online",
+            "Equal",
+            "Mostly In-store"
+        ]
+    },
+    {
+        "date": "2025-08-19",
+        "question": "What motivates you to make a repeat purchase?",
+        "type": "mcq",
+        "options": [
+            "Quality",
+            "Price",
+            "Customer Service",
+            "Convenience"
+        ]
+    },
+    {
+        "date": "2025-08-20",
+        "question": "What is your preferred delivery speed?",
+        "type": "mcq",
+        "options": [
+            "Same Day",
+            "Next Day",
+            "2-3 Days",
+            "No Rush"
+        ]
+    },
+    {
+        "date": "2025-08-21",
+        "question": "How often do you use customer support?",
+        "type": "mcq",
+        "options": [
+            "Frequently",
+            "Sometimes",
+            "Rarely",
+            "Never"
+        ]
+    },
+    {
+        "date": "2025-08-22",
+        "question": "Do you prefer shopping during sales or full price?",
+        "type": "mcq",
+        "options": [
+            "Only Sales",
+            "Mostly Sales",
+            "Mix",
+            "Full Price"
+        ]
+    },
+    {
+        "date": "2025-08-23",
+        "question": "How do you usually hear about our promotions?",
+        "type": "mcq",
+        "options": [
+            "Email",
+            "Social Media",
+            "Website",
+            "Word of Mouth"
+        ]
+    },
+    {
+        "date": "2025-08-24",
+        "question": "How important is product origin to you?",
+        "type": "mcq",
+        "options": [
+            "Very Important",
+            "Somewhat Important",
+            "Not Important"
+        ]
+    },
+    {
+        "date": "2025-08-25",
+        "question": "What\u2019s your favorite type of promotional offer?",
+        "type": "mcq",
+        "options": [
+            "Discount",
+            "Buy One Get One",
+            "Free Shipping",
+            "Gift with Purchase"
+        ]
+    },
+    {
+        "date": "2025-08-26",
+        "question": "How satisfied are you with product variety?",
+        "type": "mcq",
+        "options": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Unsatisfied"
+        ]
+    },
+    {
+        "date": "2025-08-27",
+        "question": "Do you prefer shopping solo or with friends/family?",
+        "type": "mcq",
+        "options": [
+            "Solo",
+            "With Friends",
+            "With Family",
+            "Depends"
+        ]
+    },
+    {
+        "date": "2025-08-28",
+        "question": "How often do you check for new arrivals?",
+        "type": "mcq",
+        "options": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Rarely"
+        ]
+    },
+    {
+        "date": "2025-08-29",
+        "question": "What\u2019s the most important factor in choosing a vendor?",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Reliability",
+            "Customer Service"
+        ]
+    },
+    {
+        "date": "2025-08-30",
+        "question": "Do you prefer shopping with discounts or new collections?",
+        "type": "mcq",
+        "options": [
+            "Discounts",
+            "New Collections",
+            "Both Equally"
+        ]
+    },
+    {
+        "date": "2025-08-31",
+        "question": "Which device do you use most for shopping?",
+        "type": "mcq",
+        "options": [
+            "Smartphone",
+            "Tablet",
+            "Laptop/Desktop",
+            "Other"
+        ]
+    },
+    {
+        "date": "2025-09-01",
+        "question": "How do you prefer to get order updates?",
+        "type": "mcq",
+        "options": [
+            "Email",
+            "SMS",
+            "App Notification",
+            "None"
+        ]
+    },
+    {
+        "date": "2025-09-02",
+        "question": "How likely are you to buy from us again?",
+        "type": "mcq",
+        "options": [
+            "Very Likely",
+            "Likely",
+            "Unlikely",
+            "Very Unlikely"
+        ]
+    },
+    {
+        "date": "2025-09-03",
+        "question": "How important are product photos to your purchase?",
+        "type": "mcq",
+        "options": [
+            "Very Important",
+            "Somewhat Important",
+            "Not Important"
+        ]
+    },
+    {
+        "date": "2025-09-04",
+        "question": "How often do you browse without buying?",
+        "type": "mcq",
+        "options": [
+            "Often",
+            "Sometimes",
+            "Rarely",
+            "Never"
+        ]
+    },
+    {
+        "date": "2025-09-05",
+        "question": "How did you hear about our store?",
+        "type": "mcq",
+        "options": [
+            "Friend/Family",
+            "Social Media",
+            "Advertisement",
+            "Other"
+        ]
+    },
+    {
+        "date": "2025-09-06",
+        "question": "What\u2019s your favorite way to discover new products?",
+        "type": "mcq",
+        "options": [
+            "Email Newsletter",
+            "Social Media",
+            "Website Recommendations",
+            "Friends"
+        ]
+    },
+    {
+        "date": "2025-09-07",
+        "question": "How often do you buy gifts from our store?",
+        "type": "mcq",
+        "options": [
+            "Often",
+            "Sometimes",
+            "Rarely",
+            "Never"
+        ]
+    },
+    {
+        "date": "2025-09-08",
+        "question": "How easy is it to find what you\u2019re looking for?",
+        "type": "mcq",
+        "options": [
+            "Very Easy",
+            "Easy",
+            "Difficult",
+            "Very Difficult"
+        ]
+    },
+    {
+        "date": "2025-09-09",
+        "question": "What motivates you most to shop with us?",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Customer Service",
+            "Variety"
+        ]
+    },
+    {
+        "date": "2025-09-10",
+        "question": "How often do you use our mobile app (if any)?",
+        "type": "mcq",
+        "options": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Never"
+        ]
+    },
+    {
+        "date": "2025-09-11",
+        "question": "Do you prefer receiving SMS or Email offers?",
+        "type": "mcq",
+        "options": [
+            "SMS",
+            "Email",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "date": "2025-09-12",
+        "question": "Do you shop more during sales or new launches?",
+        "type": "mcq",
+        "options": [
+            "Sales",
+            "New Launches",
+            "Both"
+        ]
+    },
+    {
+        "date": "2025-09-13",
+        "question": "How likely are you to try our new product lines?",
+        "type": "mcq",
+        "options": [
+            "Very Likely",
+            "Somewhat Likely",
+            "Not Likely"
+        ]
+    },
+    {
+        "date": "2025-09-14",
+        "question": "How important is fast shipping for you?",
+        "type": "mcq",
+        "options": [
+            "Very Important",
+            "Somewhat Important",
+            "Not Important"
+        ]
+    },
+    {
+        "date": "2025-09-15",
+        "question": "Which product category do you prefer?",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Clothing",
+            "Home",
+            "Books",
+            "Other"
+        ]
+    },
+    {
+        "date": "2025-09-16",
+        "question": "How often do you visit our physical store?",
+        "type": "mcq",
+        "options": [
+            "Weekly",
+            "Monthly",
+            "Rarely",
+            "Never"
+        ]
+    },
+    {
+        "date": "2025-09-17",
+        "question": "How easy was it to find customer support?",
+        "type": "mcq",
+        "options": [
+            "Very Easy",
+            "Easy",
+            "Hard",
+            "Very Hard"
+        ]
+    },
+    {
+        "date": "2025-09-18",
+        "question": "Do you prefer shopping with discounts or premium products?",
+        "type": "mcq",
+        "options": [
+            "Discounts",
+            "Premium",
+            "Depends on Product"
+        ]
+    },
+    {
+        "date": "2025-09-19",
+        "question": "How often do you check product availability before visiting?",
+        "type": "mcq",
+        "options": [
+            "Always",
+            "Sometimes",
+            "Never"
+        ]
+    },
+    {
+        "date": "2025-09-20",
+        "question": "How do you rate our website\u2019s speed?",
+        "type": "mcq",
+        "options": [
+            "Fast",
+            "Average",
+            "Slow"
+        ]
+    },
+    {
+        "date": "2025-09-21",
+        "question": "How likely are you to join a customer referral program?",
+        "type": "mcq",
+        "options": [
+            "Very Likely",
+            "Somewhat Likely",
+            "Not Likely"
+        ]
+    },
+    {
+        "date": "2025-09-22",
+        "question": "Do you prefer delivery or store pickup?",
+        "type": "mcq",
+        "options": [
+            "Delivery",
+            "Store Pickup"
+        ]
+    },
+    {
+        "date": "2025-09-23",
+        "question": "How satisfied are you with our holiday season offers?",
+        "type": "mcq",
+        "options": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied"
+        ]
+    },
+    {
+        "date": "2025-09-24",
+        "question": "How would you rate your overall experience this year?",
+        "type": "mcq",
+        "options": [
+            "Excellent",
+            "Good",
+            "Average",
+            "Poor"
+        ]
+    },
+    {
+        "question": "What is most important when shopping (alt)",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Service",
+            "Brand"
+        ],
+        "date": "2025-09-25"
+    },
+    {
+        "question": "How did you first hear about us (alt)",
+        "type": "mcq",
+        "options": [
+            "Friends",
+            "Online",
+            "Social Media",
+            "TV Ads"
+        ],
+        "date": "2025-09-26"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-09-27"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-09-28"
+    },
+    {
+        "question": "Which season do you shop the most (alt)",
+        "type": "mcq",
+        "options": [
+            "Festive",
+            "Summer",
+            "Monsoon",
+            "Winter"
+        ],
+        "date": "2025-09-29"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-09-30"
+    },
+    {
+        "question": "Which product category do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Apparel",
+            "Groceries",
+            "Home Goods"
+        ],
+        "date": "2025-10-01"
+    },
+    {
+        "question": "Which communication channel do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "SMS",
+            "Email",
+            "App Notifications",
+            "WhatsApp"
+        ],
+        "date": "2025-10-02"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-10-03"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-10-04"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-10-05"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-10-06"
+    },
+    {
+        "question": "How did you first hear about us (alt)",
+        "type": "mcq",
+        "options": [
+            "Friends",
+            "Online",
+            "Social Media",
+            "TV Ads"
+        ],
+        "date": "2025-10-07"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-10-08"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-10-09"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-10-10"
+    },
+    {
+        "question": "What is most important when shopping (alt)",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Service",
+            "Brand"
+        ],
+        "date": "2025-10-11"
+    },
+    {
+        "question": "What is most important when shopping (alt)",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Service",
+            "Brand"
+        ],
+        "date": "2025-10-12"
+    },
+    {
+        "question": "Which product category do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Apparel",
+            "Groceries",
+            "Home Goods"
+        ],
+        "date": "2025-10-13"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-10-14"
+    },
+    {
+        "question": "What is most important when shopping (alt)",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Service",
+            "Brand"
+        ],
+        "date": "2025-10-15"
+    },
+    {
+        "question": "How did you first hear about us (alt)",
+        "type": "mcq",
+        "options": [
+            "Friends",
+            "Online",
+            "Social Media",
+            "TV Ads"
+        ],
+        "date": "2025-10-16"
+    },
+    {
+        "question": "How did you first hear about us (alt)",
+        "type": "mcq",
+        "options": [
+            "Friends",
+            "Online",
+            "Social Media",
+            "TV Ads"
+        ],
+        "date": "2025-10-17"
+    },
+    {
+        "question": "What is most important when shopping (alt)",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Service",
+            "Brand"
+        ],
+        "date": "2025-10-18"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-10-19"
+    },
+    {
+        "question": "Which communication channel do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "SMS",
+            "Email",
+            "App Notifications",
+            "WhatsApp"
+        ],
+        "date": "2025-10-20"
+    },
+    {
+        "question": "What is most important when shopping (alt)",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Service",
+            "Brand"
+        ],
+        "date": "2025-10-21"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-10-22"
+    },
+    {
+        "question": "Which season do you shop the most (alt)",
+        "type": "mcq",
+        "options": [
+            "Festive",
+            "Summer",
+            "Monsoon",
+            "Winter"
+        ],
+        "date": "2025-10-23"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-10-24"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-10-25"
+    },
+    {
+        "question": "What is most important when shopping (alt)",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Service",
+            "Brand"
+        ],
+        "date": "2025-10-26"
+    },
+    {
+        "question": "Which product category do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Apparel",
+            "Groceries",
+            "Home Goods"
+        ],
+        "date": "2025-10-27"
+    },
+    {
+        "question": "What is most important when shopping (alt)",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Service",
+            "Brand"
+        ],
+        "date": "2025-10-28"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-10-29"
+    },
+    {
+        "question": "Which product category do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Apparel",
+            "Groceries",
+            "Home Goods"
+        ],
+        "date": "2025-10-30"
+    },
+    {
+        "question": "Which communication channel do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "SMS",
+            "Email",
+            "App Notifications",
+            "WhatsApp"
+        ],
+        "date": "2025-10-31"
+    },
+    {
+        "question": "Which product category do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Apparel",
+            "Groceries",
+            "Home Goods"
+        ],
+        "date": "2025-11-01"
+    },
+    {
+        "question": "Which product category do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Apparel",
+            "Groceries",
+            "Home Goods"
+        ],
+        "date": "2025-11-02"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-11-03"
+    },
+    {
+        "question": "What is most important when shopping (alt)",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Service",
+            "Brand"
+        ],
+        "date": "2025-11-04"
+    },
+    {
+        "question": "Which communication channel do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "SMS",
+            "Email",
+            "App Notifications",
+            "WhatsApp"
+        ],
+        "date": "2025-11-05"
+    },
+    {
+        "question": "Which season do you shop the most (alt)",
+        "type": "mcq",
+        "options": [
+            "Festive",
+            "Summer",
+            "Monsoon",
+            "Winter"
+        ],
+        "date": "2025-11-06"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-11-07"
+    },
+    {
+        "question": "Which season do you shop the most (alt)",
+        "type": "mcq",
+        "options": [
+            "Festive",
+            "Summer",
+            "Monsoon",
+            "Winter"
+        ],
+        "date": "2025-11-08"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-11-09"
+    },
+    {
+        "question": "How did you first hear about us (alt)",
+        "type": "mcq",
+        "options": [
+            "Friends",
+            "Online",
+            "Social Media",
+            "TV Ads"
+        ],
+        "date": "2025-11-10"
+    },
+    {
+        "question": "Which product category do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Apparel",
+            "Groceries",
+            "Home Goods"
+        ],
+        "date": "2025-11-11"
+    },
+    {
+        "question": "What is most important when shopping (alt)",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Service",
+            "Brand"
+        ],
+        "date": "2025-11-12"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-11-13"
+    },
+    {
+        "question": "What is most important when shopping (alt)",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Service",
+            "Brand"
+        ],
+        "date": "2025-11-14"
+    },
+    {
+        "question": "What is most important when shopping (alt)",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Service",
+            "Brand"
+        ],
+        "date": "2025-11-15"
+    },
+    {
+        "question": "Which product category do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Apparel",
+            "Groceries",
+            "Home Goods"
+        ],
+        "date": "2025-11-16"
+    },
+    {
+        "question": "What is most important when shopping (alt)",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Service",
+            "Brand"
+        ],
+        "date": "2025-11-17"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-11-18"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-11-19"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-11-20"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-11-21"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-11-22"
+    },
+    {
+        "question": "Which communication channel do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "SMS",
+            "Email",
+            "App Notifications",
+            "WhatsApp"
+        ],
+        "date": "2025-11-23"
+    },
+    {
+        "question": "What is most important when shopping (alt)",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Service",
+            "Brand"
+        ],
+        "date": "2025-11-24"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-11-25"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-11-26"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-11-27"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-11-28"
+    },
+    {
+        "question": "Which product category do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Apparel",
+            "Groceries",
+            "Home Goods"
+        ],
+        "date": "2025-11-29"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-11-30"
+    },
+    {
+        "question": "Which product category do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Apparel",
+            "Groceries",
+            "Home Goods"
+        ],
+        "date": "2025-12-01"
+    },
+    {
+        "question": "Which season do you shop the most (alt)",
+        "type": "mcq",
+        "options": [
+            "Festive",
+            "Summer",
+            "Monsoon",
+            "Winter"
+        ],
+        "date": "2025-12-02"
+    },
+    {
+        "question": "Which communication channel do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "SMS",
+            "Email",
+            "App Notifications",
+            "WhatsApp"
+        ],
+        "date": "2025-12-03"
+    },
+    {
+        "question": "Which season do you shop the most (alt)",
+        "type": "mcq",
+        "options": [
+            "Festive",
+            "Summer",
+            "Monsoon",
+            "Winter"
+        ],
+        "date": "2025-12-04"
+    },
+    {
+        "question": "Which season do you shop the most (alt)",
+        "type": "mcq",
+        "options": [
+            "Festive",
+            "Summer",
+            "Monsoon",
+            "Winter"
+        ],
+        "date": "2025-12-05"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-12-06"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-12-07"
+    },
+    {
+        "question": "Which payment method do you use most (alt)",
+        "type": "mcq",
+        "options": [
+            "Cash",
+            "UPI",
+            "Credit Card",
+            "Wallets"
+        ],
+        "date": "2025-12-08"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-12-09"
+    },
+    {
+        "question": "Which product category do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Apparel",
+            "Groceries",
+            "Home Goods"
+        ],
+        "date": "2025-12-10"
+    },
+    {
+        "question": "Which product category do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Apparel",
+            "Groceries",
+            "Home Goods"
+        ],
+        "date": "2025-12-11"
+    },
+    {
+        "question": "Which communication channel do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "SMS",
+            "Email",
+            "App Notifications",
+            "WhatsApp"
+        ],
+        "date": "2025-12-12"
+    },
+    {
+        "question": "How did you first hear about us (alt)",
+        "type": "mcq",
+        "options": [
+            "Friends",
+            "Online",
+            "Social Media",
+            "TV Ads"
+        ],
+        "date": "2025-12-13"
+    },
+    {
+        "question": "Which product category do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Apparel",
+            "Groceries",
+            "Home Goods"
+        ],
+        "date": "2025-12-14"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-12-15"
+    },
+    {
+        "question": "Which communication channel do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "SMS",
+            "Email",
+            "App Notifications",
+            "WhatsApp"
+        ],
+        "date": "2025-12-16"
+    },
+    {
+        "question": "Which communication channel do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "SMS",
+            "Email",
+            "App Notifications",
+            "WhatsApp"
+        ],
+        "date": "2025-12-17"
+    },
+    {
+        "question": "What is most important when shopping (alt)",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Service",
+            "Brand"
+        ],
+        "date": "2025-12-18"
+    },
+    {
+        "question": "Which communication channel do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "SMS",
+            "Email",
+            "App Notifications",
+            "WhatsApp"
+        ],
+        "date": "2025-12-19"
+    },
+    {
+        "question": "Which communication channel do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "SMS",
+            "Email",
+            "App Notifications",
+            "WhatsApp"
+        ],
+        "date": "2025-12-20"
+    },
+    {
+        "question": "How did you first hear about us (alt)",
+        "type": "mcq",
+        "options": [
+            "Friends",
+            "Online",
+            "Social Media",
+            "TV Ads"
+        ],
+        "date": "2025-12-21"
+    },
+    {
+        "question": "Which communication channel do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "SMS",
+            "Email",
+            "App Notifications",
+            "WhatsApp"
+        ],
+        "date": "2025-12-22"
+    },
+    {
+        "question": "Which communication channel do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "SMS",
+            "Email",
+            "App Notifications",
+            "WhatsApp"
+        ],
+        "date": "2025-12-23"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-12-24"
+    },
+    {
+        "question": "How did you first hear about us (alt)",
+        "type": "mcq",
+        "options": [
+            "Friends",
+            "Online",
+            "Social Media",
+            "TV Ads"
+        ],
+        "date": "2025-12-25"
+    },
+    {
+        "question": "How did you first hear about us (alt)",
+        "type": "mcq",
+        "options": [
+            "Friends",
+            "Online",
+            "Social Media",
+            "TV Ads"
+        ],
+        "date": "2025-12-26"
+    },
+    {
+        "question": "Which communication channel do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "SMS",
+            "Email",
+            "App Notifications",
+            "WhatsApp"
+        ],
+        "date": "2025-12-27"
+    },
+    {
+        "question": "Which communication channel do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "SMS",
+            "Email",
+            "App Notifications",
+            "WhatsApp"
+        ],
+        "date": "2025-12-28"
+    },
+    {
+        "question": "Which product category do you prefer (alt)",
+        "type": "mcq",
+        "options": [
+            "Electronics",
+            "Apparel",
+            "Groceries",
+            "Home Goods"
+        ],
+        "date": "2025-12-29"
+    },
+    {
+        "question": "What do you value most in customer service (alt)",
+        "type": "mcq",
+        "options": [
+            "Speed",
+            "Politeness",
+            "Problem-solving",
+            "Follow-up"
+        ],
+        "date": "2025-12-30"
+    },
+    {
+        "question": "What is most important when shopping (alt)",
+        "type": "mcq",
+        "options": [
+            "Price",
+            "Quality",
+            "Service",
+            "Brand"
+        ],
+        "date": "2025-12-31"
+    }
+]

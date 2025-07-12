@@ -1,0 +1,1935 @@
+[
+    {
+        "date": "2025-07-09",
+        "question": "What's your most effective way to receive work-related feedback?",
+        "type": "mcq",
+        "options": [
+            "One-on-one",
+            "Email",
+            "Team meetings",
+            "Anonymous survey"
+        ]
+    },
+    {
+        "date": "2025-07-10",
+        "question": "Which team-building activity do you find most enjoyable?",
+        "type": "mcq",
+        "options": [
+            "Lunch",
+            "Games",
+            "Workshops",
+            "Virtual meetups"
+        ]
+    },
+    {
+        "date": "2025-07-11",
+        "question": "How do you prefer to collectively celebrate team achievements?",
+        "type": "mcq",
+        "options": [
+            "Party",
+            "Lunch Out",
+            "Shout-outs",
+            "Gift Cards"
+        ]
+    },
+    {
+        "date": "2025-07-12",
+        "question": "Which style of communication do you find most effective for yourself?",
+        "type": "mcq",
+        "options": [
+            "Direct",
+            "Friendly",
+            "Formal",
+            "Casual"
+        ]
+    },
+    {
+        "date": "2025-07-13",
+        "question": "How frequently do you take short breaks during your workday?",
+        "type": "mcq",
+        "options": [
+            "Often",
+            "Sometimes",
+            "Rarely",
+            "Never"
+        ]
+    },
+    {
+        "date": "2025-07-14",
+        "question": "Is your preference to work independently or as part of a team?",
+        "type": "mcq",
+        "options": [
+            "Alone",
+            "Team"
+        ]
+    },
+    {
+        "date": "2025-07-15",
+        "question": "Which soft skill are you most interested in developing further?",
+        "type": "mcq",
+        "options": [
+            "Communication",
+            "Leadership",
+            "Time Management",
+            "Teamwork"
+        ]
+    },
+    {
+        "date": "2025-07-16",
+        "question": "What is your level of satisfaction with current team communication practices?",
+        "type": "mcq",
+        "options": [
+            "Very Satisfied",
+            "Satisfied",
+            "Neutral",
+            "Dissatisfied"
+        ]
+    },
+    {
+        "date": "2025-07-17",
+        "question": "What is your preferred format for team meetings?",
+        "type": "mcq",
+        "options": [
+            "In-person",
+            "Virtual",
+            "Hybrid"
+        ]
+    },
+    {
+        "date": "2025-07-18",
+        "question": "Which company benefit or perk do you value the most?",
+        "type": "mcq",
+        "options": [
+            "Flexible Hours",
+            "Remote Work",
+            "Free Snacks",
+            "Health Benefits"
+        ]
+    },
+    {
+        "date": "2025-07-19",
+        "question": "How often do you participate in professional training or development programs?",
+        "type": "mcq",
+        "options": [
+            "Regularly",
+            "Sometimes",
+            "Rarely",
+            "Never"
+        ]
+    },
+    {
+        "date": "2025-07-20",
+        "question": "Among these, which leadership quality do you admire most?",
+        "type": "mcq",
+        "options": [
+            "Empathy",
+            "Vision",
+            "Integrity",
+            "Decisiveness"
+        ]
+    },
+    {
+        "date": "2025-07-21",
+        "question": "Describe your ideal physical workspace setting:",
+        "type": "mcq",
+        "options": [
+            "Quiet",
+            "Open",
+            "Remote",
+            "Flexible"
+        ]
+    },
+    {
+        "date": "2025-07-22",
+        "question": "What is your preferred method for acquiring new professional skills?",
+        "type": "mcq",
+        "options": [
+            "Workshops",
+            "Online courses",
+            "Reading",
+            "Mentorship"
+        ]
+    },
+    {
+        "date": "2025-07-23",
+        "question": "Which specific team bonding activity do you enjoy the most?",
+        "type": "mcq",
+        "options": [
+            "Trivia",
+            "Lunch",
+            "Escape Room",
+            "Sports"
+        ]
+    },
+    {
+        "date": "2025-07-24",
+        "question": "What is your primary motivator in your current work?",
+        "type": "mcq",
+        "options": [
+            "Recognition",
+            "Growth",
+            "Teamwork",
+            "Purpose"
+        ]
+    },
+    {
+        "date": "2025-07-25",
+        "question": "What helps you maintain productivity throughout the day?",
+        "type": "mcq",
+        "options": [
+            "Breaks",
+            "Music",
+            "Quiet Time",
+            "Collaboration"
+        ]
+    },
+    {
+        "date": "2025-07-26",
+        "question": "Which format of feedback do you find most genuinely helpful?",
+        "type": "mcq",
+        "options": [
+            "Written",
+            "Verbal",
+            "Real-time",
+            "Scheduled reviews"
+        ]
+    },
+    {
+        "date": "2025-07-27",
+        "question": "Which factor has the most significant impact on your job satisfaction?",
+        "type": "mcq",
+        "options": [
+            "Pay",
+            "Work Culture",
+            "Growth",
+            "Flexibility"
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "question": "What specific kinds of team activities would you like to see more of?",
+        "type": "mcq",
+        "options": [
+            "Retreats",
+            "Monthly Meetups",
+            "Workshops",
+            "Hackathons"
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "question": "What single change would most improve your daily workflow?",
+        "type": "mcq",
+        "options": [
+            "Better tools",
+            "More focus time",
+            "Clearer goals",
+            "More support"
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "question": "During which part of the day are you most productive?",
+        "type": "mcq",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "It varies"
+        ]
+    },
+    {
+        "date": "2025-07-31",
+        "question": "Which type of recognition resonates most meaningfully with you?",
+        "type": "mcq",
+        "options": [
+            "Verbal praise",
+            "Written note",
+            "Public acknowledgment",
+            "Reward"
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "question": "What kind of projects do you find yourself enjoying the most?",
+        "type": "mcq",
+        "options": [
+            "Collaborative",
+            "Creative",
+            "Analytical",
+            "Independent"
+        ]
+    },
+    {
+        "date": "2025-08-02",
+        "question": "Which channel do you prefer for receiving general work updates?",
+        "type": "mcq",
+        "options": [
+            "Email",
+            "Meetings",
+            "Chat",
+            "Dashboard"
+        ]
+    },
+    {
+        "date": "2025-08-03",
+        "question": "Among these, which team value do you personally connect with the most?",
+        "type": "mcq",
+        "options": [
+            "Trust",
+            "Respect",
+            "Ownership",
+            "Curiosity"
+        ]
+    },
+    {
+        "date": "2025-08-04",
+        "question": "How do you personally prefer to acknowledge individual accomplishments?",
+        "type": "mcq",
+        "options": [
+            "Quietly",
+            "Public shout-out",
+            "With team",
+            "Gift"
+        ]
+    },
+    {
+        "date": "2025-08-05",
+        "question": "What specific aspect of your role gives you the most enjoyment?",
+        "type": "mcq",
+        "options": [
+            "Problem-solving",
+            "Collaboration",
+            "Creativity",
+            "Execution"
+        ]
+    },
+    {
+        "date": "2025-08-06",
+        "question": "What is your typical emotional state at the conclusion of a workweek?",
+        "type": "mcq",
+        "options": [
+            "Energized",
+            "Satisfied",
+            "Tired",
+            "Stressed"
+        ]
+    },
+    {
+        "date": "2025-08-07",
+        "question": "What is the key factor that helps you stay engaged in your work?",
+        "type": "mcq",
+        "options": [
+            "New challenges",
+            "Feedback",
+            "Recognition",
+            "Team culture"
+        ]
+    },
+    {
+        "date": "2025-08-08",
+        "question": "Which of these improvements would most enhance your daily work experience?",
+        "type": "mcq",
+        "options": [
+            "Clear goals",
+            "Less meetings",
+            "Better tools",
+            "More autonomy"
+        ]
+    },
+    {
+        "date": "2025-08-09",
+        "question": "How do you typically respond to and manage high-pressure work situations?",
+        "type": "mcq",
+        "options": [
+            "Stay calm",
+            "Ask for help",
+            "Work faster",
+            "Step back briefly"
+        ]
+    },
+    {
+        "date": "2025-08-10",
+        "question": "Among various types, which feedback is most beneficial for your development?",
+        "type": "mcq",
+        "options": [
+            "Direct",
+            "Constructive",
+            "Public praise",
+            "Private notes"
+        ]
+    },
+    {
+        "date": "2025-08-11",
+        "question": "Which type of environment best facilitates your concentration?",
+        "type": "mcq",
+        "options": [
+            "Quiet space",
+            "Music background",
+            "Collab zone",
+            "Flexible"
+        ]
+    },
+    {
+        "date": "2025-08-12",
+        "question": "Whose recognition do you personally value the most?",
+        "type": "mcq",
+        "options": [
+            "Peer",
+            "Manager",
+            "Customer",
+            "Leadership"
+        ]
+    },
+    {
+        "date": "2025-08-13",
+        "question": "What is the strongest motivator for you in your current job?",
+        "type": "mcq",
+        "options": [
+            "Challenge",
+            "Recognition",
+            "Learning",
+            "Team success"
+        ]
+    },
+    {
+        "date": "2025-08-14",
+        "question": "What is your typical frequency for taking breaks during the workday?",
+        "type": "mcq",
+        "options": [
+            "Regularly",
+            "Sometimes",
+            "Rarely",
+            "Never"
+        ]
+    },
+    {
+        "date": "2025-08-15",
+        "question": "Which project type aligns best with your preferences?",
+        "type": "mcq",
+        "options": [
+            "Independent",
+            "Collaborative",
+            "Creative",
+            "Routine"
+        ]
+    },
+    {
+        "date": "2025-08-16",
+        "question": "How do you personally prefer receiving updates regarding your work?",
+        "type": "mcq",
+        "options": [
+            "Email",
+            "Chat",
+            "Meetings",
+            "Dashboard"
+        ]
+    },
+    {
+        "date": "2025-08-17",
+        "question": "What is your preferred method or style of working?",
+        "type": "mcq",
+        "options": [
+            "Structured",
+            "Flexible",
+            "Fast-paced",
+            "Slow and steady"
+        ]
+    },
+    {
+        "date": "2025-08-18",
+        "question": "Which factor most significantly influences your daily productivity?",
+        "type": "mcq",
+        "options": [
+            "Environment",
+            "Tools",
+            "Motivation",
+            "Distractions"
+        ]
+    },
+    {
+        "date": "2025-08-19",
+        "question": "How often do you engage in activities for your professional development?",
+        "type": "mcq",
+        "options": [
+            "Weekly",
+            "Monthly",
+            "Rarely",
+            "Never"
+        ]
+    },
+    {
+        "date": "2025-08-20",
+        "question": "Which communication approach do you personally prefer receiving?",
+        "type": "mcq",
+        "options": [
+            "Formal",
+            "Informal",
+            "Direct",
+            "Diplomatic"
+        ]
+    },
+    {
+        "date": "2025-08-21",
+        "question": "What is your main motivation for improving your professional skills?",
+        "type": "mcq",
+        "options": [
+            "Career growth",
+            "Personal interest",
+            "Peer influence",
+            "Management encouragement"
+        ]
+    },
+    {
+        "date": "2025-08-22",
+        "question": "How often do you find yourself collaborating with your colleagues?",
+        "type": "mcq",
+        "options": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Rarely"
+        ]
+    },
+    {
+        "date": "2025-08-23",
+        "question": "Which specific tool provides the most assistance in your work?",
+        "type": "mcq",
+        "options": [
+            "Software",
+            "Documentation",
+            "Team support",
+            "Training"
+        ]
+    },
+    {
+        "date": "2025-08-24",
+        "question": "Which categories of tasks do you enjoy completing the most?",
+        "type": "mcq",
+        "options": [
+            "Analytical",
+            "Creative",
+            "Administrative",
+            "Social"
+        ]
+    },
+    {
+        "date": "2025-08-25",
+        "question": "What is your most effective learning style for new skills?",
+        "type": "mcq",
+        "options": [
+            "Online courses",
+            "Workshops",
+            "On-the-job",
+            "Reading"
+        ]
+    },
+    {
+        "date": "2025-08-26",
+        "question": "Which aspect of your work presents the most significant challenges?",
+        "type": "mcq",
+        "options": [
+            "Deadlines",
+            "Complexity",
+            "Team dynamics",
+            "Resources"
+        ]
+    },
+    {
+        "date": "2025-08-27",
+        "question": "What is your preferred format for receiving performance feedback?",
+        "type": "mcq",
+        "options": [
+            "One-on-one",
+            "Written",
+            "Group",
+            "Anonymous"
+        ]
+    },
+    {
+        "date": "2025-08-28",
+        "question": "Which specific work setting do you personally prefer?",
+        "type": "mcq",
+        "options": [
+            "Quiet",
+            "Collaborative",
+            "Flexible",
+            "Fast-paced"
+        ]
+    },
+    {
+        "date": "2025-08-29",
+        "question": "How regularly do you set personal objectives for your work?",
+        "type": "mcq",
+        "options": [
+            "Weekly",
+            "Monthly",
+            "Quarterly",
+            "Rarely"
+        ]
+    },
+    {
+        "date": "2025-08-30",
+        "question": "What kinds of projects most stimulate your interest and enthusiasm?",
+        "type": "mcq",
+        "options": [
+            "Innovative",
+            "Strategic",
+            "Operational",
+            "Supportive"
+        ]
+    },
+    {
+        "date": "2025-08-31",
+        "question": "Which communication method do you prefer for urgent communications?",
+        "type": "mcq",
+        "options": [
+            "Phone",
+            "Chat",
+            "Email",
+            "In-person"
+        ]
+    },
+    {
+        "date": "2025-09-01",
+        "question": "What is your preferred approach to resolving workplace conflicts?",
+        "type": "mcq",
+        "options": [
+            "Direct discussion",
+            "Mediation",
+            "Avoidance",
+            "Escalation"
+        ]
+    },
+    {
+        "date": "2025-09-02",
+        "question": "What environmental factor best aids your concentration at work?",
+        "type": "mcq",
+        "options": [
+            "Quiet space",
+            "Music",
+            "Breaks",
+            "Task batching"
+        ]
+    },
+    {
+        "date": "2025-09-03",
+        "question": "Which professional skill area are you most eager to improve upon?",
+        "type": "mcq",
+        "options": [
+            "Leadership",
+            "Technical",
+            "Communication",
+            "Time management"
+        ]
+    },
+    {
+        "date": "2025-09-04",
+        "question": "At what frequency do you receive constructive criticism or feedback?",
+        "type": "mcq",
+        "options": [
+            "Weekly",
+            "Monthly",
+            "Rarely",
+            "Never"
+        ]
+    },
+    {
+        "date": "2025-09-05",
+        "question": "What form of recognition do you personally find most rewarding?",
+        "type": "mcq",
+        "options": [
+            "Public praise",
+            "Private thanks",
+            "Monetary",
+            "Career opportunities"
+        ]
+    },
+    {
+        "date": "2025-09-06",
+        "question": "Which specific element most contributes to your overall work satisfaction?",
+        "type": "mcq",
+        "options": [
+            "Team",
+            "Leadership",
+            "Work content",
+            "Environment"
+        ]
+    },
+    {
+        "date": "2025-09-07",
+        "question": "How do you prefer to commemorate successful team endeavors?",
+        "type": "mcq",
+        "options": [
+            "Party",
+            "Lunch",
+            "Shoutout",
+            "Gift"
+        ]
+    },
+    {
+        "date": "2025-09-08",
+        "question": "What helps you maintain your motivation at work?",
+        "type": "mcq",
+        "options": [
+            "Goals",
+            "Incentives",
+            "Team spirit",
+            "Learning"
+        ]
+    },
+    {
+        "date": "2025-09-09",
+        "question": "Which types of tasks do you find personally most gratifying?",
+        "type": "mcq",
+        "options": [
+            "Creative",
+            "Analytical",
+            "Helping others",
+            "Organizing"
+        ]
+    },
+    {
+        "date": "2025-09-10",
+        "question": "How often do you communicate directly with your manager?",
+        "type": "mcq",
+        "options": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Rarely"
+        ]
+    },
+    {
+        "date": "2025-09-11",
+        "question": "At what specific time of day do you experience peak productivity?",
+        "type": "mcq",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "Late night"
+        ]
+    },
+    {
+        "date": "2025-09-12",
+        "question": "In which professional area would you like to receive more training?",
+        "type": "mcq",
+        "options": [
+            "Technical skills",
+            "Soft skills",
+            "Leadership",
+            "Time management"
+        ]
+    },
+    {
+        "date": "2025-09-13",
+        "question": "Which characteristics of feedback do you find most valuable?",
+        "type": "mcq",
+        "options": [
+            "Positive",
+            "Constructive",
+            "Frequent",
+            "Detailed"
+        ]
+    },
+    {
+        "date": "2025-09-14",
+        "question": "What singular factor would most significantly enhance your job satisfaction?",
+        "type": "mcq",
+        "options": [
+            "Salary",
+            "Work environment",
+            "Work-life balance",
+            "Recognition"
+        ]
+    },
+    {
+        "date": "2025-09-15",
+        "question": "How often do you participate in organized team-building activities?",
+        "type": "mcq",
+        "options": [
+            "Regularly",
+            "Sometimes",
+            "Rarely",
+            "Never"
+        ]
+    },
+    {
+        "date": "2025-09-16",
+        "question": "Which leadership approach do you personally prefer?",
+        "type": "mcq",
+        "options": [
+            "Transformational",
+            "Transactional",
+            "Servant",
+            "Laissez-faire"
+        ]
+    },
+    {
+        "date": "2025-09-17",
+        "question": "What strategy helps you best manage and cope with work-related stress?",
+        "type": "mcq",
+        "options": [
+            "Exercise",
+            "Meditation",
+            "Talking",
+            "Hobbies"
+        ]
+    },
+    {
+        "date": "2025-09-18",
+        "question": "Which time management technique do you regularly employ?",
+        "type": "mcq",
+        "options": [
+            "Pomodoro",
+            "Time blocking",
+            "To-do lists",
+            "Prioritization"
+        ]
+    },
+    {
+        "date": "2025-09-19",
+        "question": "Which particular professional competency do you aim to enhance?",
+        "type": "mcq",
+        "options": [
+            "Public speaking",
+            "Coding",
+            "Writing",
+            "Negotiation"
+        ]
+    },
+    {
+        "date": "2025-09-20",
+        "question": "How often do you dedicate time to reflect on your work performance?",
+        "type": "mcq",
+        "options": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Rarely"
+        ]
+    },
+    {
+        "date": "2025-09-21",
+        "question": "What primary method helps you stay organized in your work?",
+        "type": "mcq",
+        "options": [
+            "Apps",
+            "Notebooks",
+            "Reminders",
+            "Calendars"
+        ]
+    },
+    {
+        "date": "2025-09-22",
+        "question": "What sustains your motivation during particularly demanding projects?",
+        "type": "mcq",
+        "options": [
+            "Team support",
+            "End goal",
+            "Recognition",
+            "Personal growth"
+        ]
+    },
+    {
+        "date": "2025-09-23",
+        "question": "Which type of break best helps you feel re-energized?",
+        "type": "mcq",
+        "options": [
+            "Short walks",
+            "Meditation",
+            "Snacks",
+            "Socializing"
+        ]
+    },
+    {
+        "date": "2025-09-24",
+        "question": "How do you prefer to commemorate holidays within the workplace?",
+        "type": "mcq",
+        "options": [
+            "Party",
+            "Gift exchange",
+            "Volunteering",
+            "Quiet day"
+        ]
+    },
+    {
+        "date": "2025-09-25",
+        "question": "Which stage of a project do you find most engaging?",
+        "type": "mcq",
+        "options": [
+            "Planning",
+            "Execution",
+            "Review",
+            "Closing"
+        ]
+    },
+    {
+        "date": "2025-09-26",
+        "question": "How often do you proactively seek feedback on your performance?",
+        "type": "mcq",
+        "options": [
+            "Frequently",
+            "Sometimes",
+            "Rarely",
+            "Never"
+        ]
+    },
+    {
+        "question": "What\u2019s your ideal break activity during work?",
+        "type": "mcq",
+        "options": [
+            "Coffee chat",
+            "Walk",
+            "Nap",
+            "Music"
+        ],
+        "date": "2025-09-27"
+    },
+    {
+        "question": "How do you prefer to start your workday?",
+        "type": "mcq",
+        "options": [
+            "With a team huddle",
+            "With solo planning",
+            "Jumping into tasks",
+            "Checking emails"
+        ],
+        "date": "2025-09-28"
+    },
+    {
+        "question": "Which productivity tool do you like most?",
+        "type": "mcq",
+        "options": [
+            "Notion",
+            "Trello",
+            "Asana",
+            "Google Calendar"
+        ],
+        "date": "2025-09-29"
+    },
+    {
+        "question": "Pick a virtual celebration activity:",
+        "type": "mcq",
+        "options": [
+            "Online games",
+            "Virtual DJ party",
+            "Zoom lunch",
+            "Trivia quiz"
+        ],
+        "date": "2025-09-30"
+    },
+    {
+        "question": "What motivates you most at work?",
+        "type": "mcq",
+        "options": [
+            "Team success",
+            "Rewards",
+            "Recognition",
+            "Personal goals"
+        ],
+        "date": "2025-10-01"
+    },
+    {
+        "question": "What do you value most in a teammate?",
+        "type": "mcq",
+        "options": [
+            "Honesty",
+            "Punctuality",
+            "Creativity",
+            "Collaboration"
+        ],
+        "date": "2025-10-02"
+    },
+    {
+        "question": "How do you like your workspace?",
+        "type": "mcq",
+        "options": [
+            "Minimalist",
+            "Colorful",
+            "Tech-heavy",
+            "Paper-friendly"
+        ],
+        "date": "2025-10-03"
+    },
+    {
+        "question": "Which do you prefer for meetings?",
+        "type": "mcq",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "No preference"
+        ],
+        "date": "2025-10-04"
+    },
+    {
+        "question": "Pick your go-to communication tool:",
+        "type": "mcq",
+        "options": [
+            "Slack",
+            "Email",
+            "WhatsApp",
+            "MS Teams"
+        ],
+        "date": "2025-10-05"
+    },
+    {
+        "question": "What's your favorite type of team reward?",
+        "type": "mcq",
+        "options": [
+            "Gift cards",
+            "Bonus",
+            "Public shoutout",
+            "Day off"
+        ],
+        "date": "2025-10-06"
+    },
+    {
+        "question": "How do you prefer to start your workday (alt)",
+        "type": "mcq",
+        "options": [
+            "With a team huddle",
+            "With solo planning",
+            "Jumping into tasks",
+            "Checking emails"
+        ],
+        "date": "2025-10-07"
+    },
+    {
+        "question": "How do you prefer to start your workday (alt)",
+        "type": "mcq",
+        "options": [
+            "With a team huddle",
+            "With solo planning",
+            "Jumping into tasks",
+            "Checking emails"
+        ],
+        "date": "2025-10-08"
+    },
+    {
+        "question": "How do you like your workspace (alt)",
+        "type": "mcq",
+        "options": [
+            "Minimalist",
+            "Colorful",
+            "Tech-heavy",
+            "Paper-friendly"
+        ],
+        "date": "2025-10-09"
+    },
+    {
+        "question": "What motivates you most at work (alt)",
+        "type": "mcq",
+        "options": [
+            "Team success",
+            "Rewards",
+            "Recognition",
+            "Personal goals"
+        ],
+        "date": "2025-10-10"
+    },
+    {
+        "question": "Pick a virtual celebration activity: (ver 2)",
+        "type": "mcq",
+        "options": [
+            "Online games",
+            "Virtual DJ party",
+            "Zoom lunch",
+            "Trivia quiz"
+        ],
+        "date": "2025-10-11"
+    },
+    {
+        "question": "Pick a virtual celebration activity: (ver 2)",
+        "type": "mcq",
+        "options": [
+            "Online games",
+            "Virtual DJ party",
+            "Zoom lunch",
+            "Trivia quiz"
+        ],
+        "date": "2025-10-12"
+    },
+    {
+        "question": "Pick a virtual celebration activity: (ver 2)",
+        "type": "mcq",
+        "options": [
+            "Online games",
+            "Virtual DJ party",
+            "Zoom lunch",
+            "Trivia quiz"
+        ],
+        "date": "2025-10-13"
+    },
+    {
+        "question": "What\u2019s your ideal break activity during work (alt)",
+        "type": "mcq",
+        "options": [
+            "Coffee chat",
+            "Walk",
+            "Nap",
+            "Music"
+        ],
+        "date": "2025-10-14"
+    },
+    {
+        "question": "What's your favorite type of team reward (alt)",
+        "type": "mcq",
+        "options": [
+            "Gift cards",
+            "Bonus",
+            "Public shoutout",
+            "Day off"
+        ],
+        "date": "2025-10-15"
+    },
+    {
+        "question": "Which productivity tool do you like most (alt)",
+        "type": "mcq",
+        "options": [
+            "Notion",
+            "Trello",
+            "Asana",
+            "Google Calendar"
+        ],
+        "date": "2025-10-16"
+    },
+    {
+        "question": "What\u2019s your ideal break activity during work (alt)",
+        "type": "mcq",
+        "options": [
+            "Coffee chat",
+            "Walk",
+            "Nap",
+            "Music"
+        ],
+        "date": "2025-10-17"
+    },
+    {
+        "question": "What\u2019s your ideal break activity during work (alt)",
+        "type": "mcq",
+        "options": [
+            "Coffee chat",
+            "Walk",
+            "Nap",
+            "Music"
+        ],
+        "date": "2025-10-18"
+    },
+    {
+        "question": "How do you like your workspace (alt)",
+        "type": "mcq",
+        "options": [
+            "Minimalist",
+            "Colorful",
+            "Tech-heavy",
+            "Paper-friendly"
+        ],
+        "date": "2025-10-19"
+    },
+    {
+        "question": "Which do you prefer for meetings (alt)",
+        "type": "mcq",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "No preference"
+        ],
+        "date": "2025-10-20"
+    },
+    {
+        "question": "What motivates you most at work (alt)",
+        "type": "mcq",
+        "options": [
+            "Team success",
+            "Rewards",
+            "Recognition",
+            "Personal goals"
+        ],
+        "date": "2025-10-21"
+    },
+    {
+        "question": "What's your favorite type of team reward (alt)",
+        "type": "mcq",
+        "options": [
+            "Gift cards",
+            "Bonus",
+            "Public shoutout",
+            "Day off"
+        ],
+        "date": "2025-10-22"
+    },
+    {
+        "question": "What\u2019s your ideal break activity during work (alt)",
+        "type": "mcq",
+        "options": [
+            "Coffee chat",
+            "Walk",
+            "Nap",
+            "Music"
+        ],
+        "date": "2025-10-23"
+    },
+    {
+        "question": "How do you like your workspace (alt)",
+        "type": "mcq",
+        "options": [
+            "Minimalist",
+            "Colorful",
+            "Tech-heavy",
+            "Paper-friendly"
+        ],
+        "date": "2025-10-24"
+    },
+    {
+        "question": "Pick your go-to communication tool: (ver 2)",
+        "type": "mcq",
+        "options": [
+            "Slack",
+            "Email",
+            "WhatsApp",
+            "MS Teams"
+        ],
+        "date": "2025-10-25"
+    },
+    {
+        "question": "What\u2019s your ideal break activity during work (alt)",
+        "type": "mcq",
+        "options": [
+            "Coffee chat",
+            "Walk",
+            "Nap",
+            "Music"
+        ],
+        "date": "2025-10-26"
+    },
+    {
+        "question": "What motivates you most at work (alt)",
+        "type": "mcq",
+        "options": [
+            "Team success",
+            "Rewards",
+            "Recognition",
+            "Personal goals"
+        ],
+        "date": "2025-10-27"
+    },
+    {
+        "question": "Pick your go-to communication tool: (ver 2)",
+        "type": "mcq",
+        "options": [
+            "Slack",
+            "Email",
+            "WhatsApp",
+            "MS Teams"
+        ],
+        "date": "2025-10-28"
+    },
+    {
+        "question": "What motivates you most at work (alt)",
+        "type": "mcq",
+        "options": [
+            "Team success",
+            "Rewards",
+            "Recognition",
+            "Personal goals"
+        ],
+        "date": "2025-10-29"
+    },
+    {
+        "question": "What motivates you most at work (alt)",
+        "type": "mcq",
+        "options": [
+            "Team success",
+            "Rewards",
+            "Recognition",
+            "Personal goals"
+        ],
+        "date": "2025-10-30"
+    },
+    {
+        "question": "Which productivity tool do you like most (alt)",
+        "type": "mcq",
+        "options": [
+            "Notion",
+            "Trello",
+            "Asana",
+            "Google Calendar"
+        ],
+        "date": "2025-10-31"
+    },
+    {
+        "question": "What motivates you most at work (alt)",
+        "type": "mcq",
+        "options": [
+            "Team success",
+            "Rewards",
+            "Recognition",
+            "Personal goals"
+        ],
+        "date": "2025-11-01"
+    },
+    {
+        "question": "What do you value most in a teammate (alt)",
+        "type": "mcq",
+        "options": [
+            "Honesty",
+            "Punctuality",
+            "Creativity",
+            "Collaboration"
+        ],
+        "date": "2025-11-02"
+    },
+    {
+        "question": "Pick your go-to communication tool: (ver 2)",
+        "type": "mcq",
+        "options": [
+            "Slack",
+            "Email",
+            "WhatsApp",
+            "MS Teams"
+        ],
+        "date": "2025-11-03"
+    },
+    {
+        "question": "What motivates you most at work (alt)",
+        "type": "mcq",
+        "options": [
+            "Team success",
+            "Rewards",
+            "Recognition",
+            "Personal goals"
+        ],
+        "date": "2025-11-04"
+    },
+    {
+        "question": "Pick your go-to communication tool: (ver 2)",
+        "type": "mcq",
+        "options": [
+            "Slack",
+            "Email",
+            "WhatsApp",
+            "MS Teams"
+        ],
+        "date": "2025-11-05"
+    },
+    {
+        "question": "Pick a virtual celebration activity: (ver 2)",
+        "type": "mcq",
+        "options": [
+            "Online games",
+            "Virtual DJ party",
+            "Zoom lunch",
+            "Trivia quiz"
+        ],
+        "date": "2025-11-06"
+    },
+    {
+        "question": "Which productivity tool do you like most (alt)",
+        "type": "mcq",
+        "options": [
+            "Notion",
+            "Trello",
+            "Asana",
+            "Google Calendar"
+        ],
+        "date": "2025-11-07"
+    },
+    {
+        "question": "What do you value most in a teammate (alt)",
+        "type": "mcq",
+        "options": [
+            "Honesty",
+            "Punctuality",
+            "Creativity",
+            "Collaboration"
+        ],
+        "date": "2025-11-08"
+    },
+    {
+        "question": "What do you value most in a teammate (alt)",
+        "type": "mcq",
+        "options": [
+            "Honesty",
+            "Punctuality",
+            "Creativity",
+            "Collaboration"
+        ],
+        "date": "2025-11-09"
+    },
+    {
+        "question": "Which do you prefer for meetings (alt)",
+        "type": "mcq",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "No preference"
+        ],
+        "date": "2025-11-10"
+    },
+    {
+        "question": "How do you prefer to start your workday (alt)",
+        "type": "mcq",
+        "options": [
+            "With a team huddle",
+            "With solo planning",
+            "Jumping into tasks",
+            "Checking emails"
+        ],
+        "date": "2025-11-11"
+    },
+    {
+        "question": "What do you value most in a teammate (alt)",
+        "type": "mcq",
+        "options": [
+            "Honesty",
+            "Punctuality",
+            "Creativity",
+            "Collaboration"
+        ],
+        "date": "2025-11-12"
+    },
+    {
+        "question": "Which do you prefer for meetings (alt)",
+        "type": "mcq",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "No preference"
+        ],
+        "date": "2025-11-13"
+    },
+    {
+        "question": "What's your favorite type of team reward (alt)",
+        "type": "mcq",
+        "options": [
+            "Gift cards",
+            "Bonus",
+            "Public shoutout",
+            "Day off"
+        ],
+        "date": "2025-11-14"
+    },
+    {
+        "question": "Which do you prefer for meetings (alt)",
+        "type": "mcq",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "No preference"
+        ],
+        "date": "2025-11-15"
+    },
+    {
+        "question": "What do you value most in a teammate (alt)",
+        "type": "mcq",
+        "options": [
+            "Honesty",
+            "Punctuality",
+            "Creativity",
+            "Collaboration"
+        ],
+        "date": "2025-11-16"
+    },
+    {
+        "question": "Pick a virtual celebration activity: (ver 2)",
+        "type": "mcq",
+        "options": [
+            "Online games",
+            "Virtual DJ party",
+            "Zoom lunch",
+            "Trivia quiz"
+        ],
+        "date": "2025-11-17"
+    },
+    {
+        "question": "What's your favorite type of team reward (alt)",
+        "type": "mcq",
+        "options": [
+            "Gift cards",
+            "Bonus",
+            "Public shoutout",
+            "Day off"
+        ],
+        "date": "2025-11-18"
+    },
+    {
+        "question": "Which productivity tool do you like most (alt)",
+        "type": "mcq",
+        "options": [
+            "Notion",
+            "Trello",
+            "Asana",
+            "Google Calendar"
+        ],
+        "date": "2025-11-19"
+    },
+    {
+        "question": "Which do you prefer for meetings (alt)",
+        "type": "mcq",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "No preference"
+        ],
+        "date": "2025-11-20"
+    },
+    {
+        "question": "How do you prefer to start your workday (alt)",
+        "type": "mcq",
+        "options": [
+            "With a team huddle",
+            "With solo planning",
+            "Jumping into tasks",
+            "Checking emails"
+        ],
+        "date": "2025-11-21"
+    },
+    {
+        "question": "Which productivity tool do you like most (alt)",
+        "type": "mcq",
+        "options": [
+            "Notion",
+            "Trello",
+            "Asana",
+            "Google Calendar"
+        ],
+        "date": "2025-11-22"
+    },
+    {
+        "question": "What's your favorite type of team reward (alt)",
+        "type": "mcq",
+        "options": [
+            "Gift cards",
+            "Bonus",
+            "Public shoutout",
+            "Day off"
+        ],
+        "date": "2025-11-23"
+    },
+    {
+        "question": "How do you like your workspace (alt)",
+        "type": "mcq",
+        "options": [
+            "Minimalist",
+            "Colorful",
+            "Tech-heavy",
+            "Paper-friendly"
+        ],
+        "date": "2025-11-24"
+    },
+    {
+        "question": "What's your favorite type of team reward (alt)",
+        "type": "mcq",
+        "options": [
+            "Gift cards",
+            "Bonus",
+            "Public shoutout",
+            "Day off"
+        ],
+        "date": "2025-11-25"
+    },
+    {
+        "question": "What motivates you most at work (alt)",
+        "type": "mcq",
+        "options": [
+            "Team success",
+            "Rewards",
+            "Recognition",
+            "Personal goals"
+        ],
+        "date": "2025-11-26"
+    },
+    {
+        "question": "What motivates you most at work (alt)",
+        "type": "mcq",
+        "options": [
+            "Team success",
+            "Rewards",
+            "Recognition",
+            "Personal goals"
+        ],
+        "date": "2025-11-27"
+    },
+    {
+        "question": "How do you prefer to start your workday (alt)",
+        "type": "mcq",
+        "options": [
+            "With a team huddle",
+            "With solo planning",
+            "Jumping into tasks",
+            "Checking emails"
+        ],
+        "date": "2025-11-28"
+    },
+    {
+        "question": "What\u2019s your ideal break activity during work (alt)",
+        "type": "mcq",
+        "options": [
+            "Coffee chat",
+            "Walk",
+            "Nap",
+            "Music"
+        ],
+        "date": "2025-11-29"
+    },
+    {
+        "question": "How do you prefer to start your workday (alt)",
+        "type": "mcq",
+        "options": [
+            "With a team huddle",
+            "With solo planning",
+            "Jumping into tasks",
+            "Checking emails"
+        ],
+        "date": "2025-11-30"
+    },
+    {
+        "question": "What do you value most in a teammate (alt)",
+        "type": "mcq",
+        "options": [
+            "Honesty",
+            "Punctuality",
+            "Creativity",
+            "Collaboration"
+        ],
+        "date": "2025-12-01"
+    },
+    {
+        "question": "What motivates you most at work (alt)",
+        "type": "mcq",
+        "options": [
+            "Team success",
+            "Rewards",
+            "Recognition",
+            "Personal goals"
+        ],
+        "date": "2025-12-02"
+    },
+    {
+        "question": "How do you like your workspace (alt)",
+        "type": "mcq",
+        "options": [
+            "Minimalist",
+            "Colorful",
+            "Tech-heavy",
+            "Paper-friendly"
+        ],
+        "date": "2025-12-03"
+    },
+    {
+        "question": "What motivates you most at work (alt)",
+        "type": "mcq",
+        "options": [
+            "Team success",
+            "Rewards",
+            "Recognition",
+            "Personal goals"
+        ],
+        "date": "2025-12-04"
+    },
+    {
+        "question": "What do you value most in a teammate (alt)",
+        "type": "mcq",
+        "options": [
+            "Honesty",
+            "Punctuality",
+            "Creativity",
+            "Collaboration"
+        ],
+        "date": "2025-12-05"
+    },
+    {
+        "question": "What do you value most in a teammate (alt)",
+        "type": "mcq",
+        "options": [
+            "Honesty",
+            "Punctuality",
+            "Creativity",
+            "Collaboration"
+        ],
+        "date": "2025-12-06"
+    },
+    {
+        "question": "Which do you prefer for meetings (alt)",
+        "type": "mcq",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "No preference"
+        ],
+        "date": "2025-12-07"
+    },
+    {
+        "question": "Which do you prefer for meetings (alt)",
+        "type": "mcq",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "No preference"
+        ],
+        "date": "2025-12-08"
+    },
+    {
+        "question": "Pick a virtual celebration activity: (ver 2)",
+        "type": "mcq",
+        "options": [
+            "Online games",
+            "Virtual DJ party",
+            "Zoom lunch",
+            "Trivia quiz"
+        ],
+        "date": "2025-12-09"
+    },
+    {
+        "question": "How do you prefer to start your workday (alt)",
+        "type": "mcq",
+        "options": [
+            "With a team huddle",
+            "With solo planning",
+            "Jumping into tasks",
+            "Checking emails"
+        ],
+        "date": "2025-12-10"
+    },
+    {
+        "question": "How do you prefer to start your workday (alt)",
+        "type": "mcq",
+        "options": [
+            "With a team huddle",
+            "With solo planning",
+            "Jumping into tasks",
+            "Checking emails"
+        ],
+        "date": "2025-12-11"
+    },
+    {
+        "question": "Pick your go-to communication tool: (ver 2)",
+        "type": "mcq",
+        "options": [
+            "Slack",
+            "Email",
+            "WhatsApp",
+            "MS Teams"
+        ],
+        "date": "2025-12-12"
+    },
+    {
+        "question": "How do you prefer to start your workday (alt)",
+        "type": "mcq",
+        "options": [
+            "With a team huddle",
+            "With solo planning",
+            "Jumping into tasks",
+            "Checking emails"
+        ],
+        "date": "2025-12-13"
+    },
+    {
+        "question": "How do you prefer to start your workday (alt)",
+        "type": "mcq",
+        "options": [
+            "With a team huddle",
+            "With solo planning",
+            "Jumping into tasks",
+            "Checking emails"
+        ],
+        "date": "2025-12-14"
+    },
+    {
+        "question": "What\u2019s your ideal break activity during work (alt)",
+        "type": "mcq",
+        "options": [
+            "Coffee chat",
+            "Walk",
+            "Nap",
+            "Music"
+        ],
+        "date": "2025-12-15"
+    },
+    {
+        "question": "Which productivity tool do you like most (alt)",
+        "type": "mcq",
+        "options": [
+            "Notion",
+            "Trello",
+            "Asana",
+            "Google Calendar"
+        ],
+        "date": "2025-12-16"
+    },
+    {
+        "question": "What\u2019s your ideal break activity during work (alt)",
+        "type": "mcq",
+        "options": [
+            "Coffee chat",
+            "Walk",
+            "Nap",
+            "Music"
+        ],
+        "date": "2025-12-17"
+    },
+    {
+        "question": "What's your favorite type of team reward (alt)",
+        "type": "mcq",
+        "options": [
+            "Gift cards",
+            "Bonus",
+            "Public shoutout",
+            "Day off"
+        ],
+        "date": "2025-12-18"
+    },
+    {
+        "question": "Which do you prefer for meetings (alt)",
+        "type": "mcq",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "No preference"
+        ],
+        "date": "2025-12-19"
+    },
+    {
+        "question": "Which do you prefer for meetings (alt)",
+        "type": "mcq",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "No preference"
+        ],
+        "date": "2025-12-20"
+    },
+    {
+        "question": "What's your favorite type of team reward (alt)",
+        "type": "mcq",
+        "options": [
+            "Gift cards",
+            "Bonus",
+            "Public shoutout",
+            "Day off"
+        ],
+        "date": "2025-12-21"
+    },
+    {
+        "question": "What motivates you most at work (alt)",
+        "type": "mcq",
+        "options": [
+            "Team success",
+            "Rewards",
+            "Recognition",
+            "Personal goals"
+        ],
+        "date": "2025-12-22"
+    },
+    {
+        "question": "Pick a virtual celebration activity: (ver 2)",
+        "type": "mcq",
+        "options": [
+            "Online games",
+            "Virtual DJ party",
+            "Zoom lunch",
+            "Trivia quiz"
+        ],
+        "date": "2025-12-23"
+    },
+    {
+        "question": "How do you prefer to start your workday (alt)",
+        "type": "mcq",
+        "options": [
+            "With a team huddle",
+            "With solo planning",
+            "Jumping into tasks",
+            "Checking emails"
+        ],
+        "date": "2025-12-24"
+    },
+    {
+        "question": "Which do you prefer for meetings (alt)",
+        "type": "mcq",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "No preference"
+        ],
+        "date": "2025-12-25"
+    },
+    {
+        "question": "What do you value most in a teammate (alt)",
+        "type": "mcq",
+        "options": [
+            "Honesty",
+            "Punctuality",
+            "Creativity",
+            "Collaboration"
+        ],
+        "date": "2025-12-26"
+    },
+    {
+        "question": "Which do you prefer for meetings (alt)",
+        "type": "mcq",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "No preference"
+        ],
+        "date": "2025-12-27"
+    },
+    {
+        "question": "How do you prefer to start your workday (alt)",
+        "type": "mcq",
+        "options": [
+            "With a team huddle",
+            "With solo planning",
+            "Jumping into tasks",
+            "Checking emails"
+        ],
+        "date": "2025-12-28"
+    },
+    {
+        "question": "What's your favorite type of team reward (alt)",
+        "type": "mcq",
+        "options": [
+            "Gift cards",
+            "Bonus",
+            "Public shoutout",
+            "Day off"
+        ],
+        "date": "2025-12-29"
+    },
+    {
+        "question": "What do you value most in a teammate (alt)",
+        "type": "mcq",
+        "options": [
+            "Honesty",
+            "Punctuality",
+            "Creativity",
+            "Collaboration"
+        ],
+        "date": "2025-12-30"
+    },
+    {
+        "question": "What motivates you most at work (alt)",
+        "type": "mcq",
+        "options": [
+            "Team success",
+            "Rewards",
+            "Recognition",
+            "Personal goals"
+        ],
+        "date": "2025-12-31"
+    }
+]
